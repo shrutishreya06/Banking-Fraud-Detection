@@ -77,5 +77,5 @@ SMOTE or under-sampling, cross-validation, hyper-parameter tuning, features from
 Python, pandas, NumPy, Matplotlib, seaborn, scikit-learn
 
 ## Author
-**Saruti Shreya**
-[LinkedIn profile link] | [Email]
+**Shruti Shreya**
+
