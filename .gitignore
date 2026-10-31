@@ -1,0 +1,4 @@
+# dataset is large (77 MB), so it is not uploaded
+*.csv
+__pycache__/
+.ipynb_checkpoints/
